@@ -16,6 +16,8 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 
 ![img_2.png](img_2.png)
 
+Currently, a private build, as assets are taken from pre-existing works. No release is planned. Overall design direction is trying to give the mod a more open-ended / "sandboxy" feel and to move away from the arcady feel of the base mod. Guns are no longer just stat tweaks of each-other, but each a unique item with its own intricacies and balancing issues.
+
 </center>Animations Needed:
 
 mag_unload<br>
