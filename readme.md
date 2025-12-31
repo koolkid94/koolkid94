@@ -46,6 +46,8 @@ low_ready <br>
 
 ![img_4.png](img_4.png)
 
+![Jdk-17.0.6.10-hotspot 2025.12.31 - 00.22.22.06.gif](Jdk-17.0.6.10-hotspot%202025.12.31%20-%2000.22.22.06.gif)
+
 ![img_5.png](img_5.png)
 
 and much much more...!
