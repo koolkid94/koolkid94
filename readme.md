@@ -52,6 +52,8 @@ low_ready <br>
 
 ![img_5.png](img_5.png)
 
+![Jdk-17.0.6.10-hotspot 2026.01.01 - 17.23.49.03.gif](Jdk-17.0.6.10-hotspot%202026.01.01%20-%2017.23.49.03.gif)
+
 and much much more...!
 
 toggle (do later) (priority 1)
