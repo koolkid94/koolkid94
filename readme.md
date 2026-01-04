@@ -44,6 +44,8 @@ unfold<br>
 low_ready <br>
 --> place gun in low ready (safety on) <br>
 
+note: inspect with magazine (inspect_xmag) should be a mag check anim
+
 ![img_4.png](img_4.png)
 
 ![Jdk-17.0.6.10-hotspot 2025.12.31 - 00.22.22.06.gif](Jdk-17.0.6.10-hotspot%202025.12.31%20-%2000.22.22.06.gif)
