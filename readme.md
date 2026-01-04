@@ -81,6 +81,8 @@ change batteries (do later) (low priority)
 
 ![Jdk-17.0.6.10-hotspot 2025.12.24 - 11.07.32.03.gif](Jdk-17.0.6.10-hotspot%202025.12.24%20-%2011.07.32.03.gif) 
 
+![Base Profile 2026.01.03 - 18.43.28.01.gif](Base%20Profile%202026.01.03%20-%2018.43.28.01.gif) 
+
 ![Jdk-17.0.6.10-hotspot 2025.12.19 - 00.23.21.01.gif](Jdk-17.0.6.10-hotspot%202025.12.19%20-%2000.23.21.01.gif) </center>
 
 --JAVA--<br>
