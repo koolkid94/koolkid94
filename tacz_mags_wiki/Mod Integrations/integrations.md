@@ -2,7 +2,6 @@
 
 Using a modified version of [MUKCS's TaCZ Tweaks](https://github.com/MUKSC/TaCZTweaks) mod, features like bullet sounds, particle effects, and destruction are enabled.
 <br>
-![tacz tweaks.gif](resources/tacz%20tweaks.gif)
 
 ## Tacz Additions
 
