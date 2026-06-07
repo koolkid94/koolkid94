@@ -23,8 +23,8 @@ A Minecraft Mod aiming to make the world not feel so player-centric.
 <br>
 
 ![img.png](img.png)
-A-Mythic
-B-A Staple of Great Fun Playing
-C-Solid Fun
-D-Not For Me...
-F-Abysmal
+A-Mythic<br>
+B-A Staple of Great Fun Playing<br>
+C-Solid Fun<br>
+D-Not For Me...<br>
+F-Abysmal<br>
