@@ -4,7 +4,7 @@
 
 Tacz's guns are no longer stat tweaks of each other but each a unique item with its own intricacies and balancing, implemented through ammunition choices and attachment accessibility.
 
-- [New Branch (IntelliJ Project)](https://github.com/koolkid94/tacz_mags/tree/intellij-project)
+- [WIP Wiki)](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki)
 - [Rough Project Scope & Outline](https://docs.google.com/document/d/17dVBlS1kNZ8BBDibv30S84Fb3FFpDjXTLl2TkmrA0iU/edit?tab=t.0)
 
 ---
