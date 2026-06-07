@@ -16,9 +16,32 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 
 Currently a private build - assets sourced from pre-existing works. No public release planned.
 
+Damage
+Accuracy
+Heating/Cooling Rates
+Fire Rate
+Length
+weight
+ADS Time
+Recoil
+Damage Dropoff
+Attachment Compatability (Magazine Sizes, Scopes)
+Loudness
+Particulate Clutter (gas and other obscuring particle effects)
+
 Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are no longer stat tweaks of each other but each a unique item with its own intricacies and balancing, implemented through ammunition choices and attachment accessibility. The attachment mounting system loosely models a variety of real-world mounting solutions.
 </center>
 
+
+## Current Features
+
+- [Firearm Gas/Pressure System]
+- [Weapon Handling/Manipulations & Length]
+- [Underbarrels]
+- [Other Mod Integrations]
+- [Variable Ballistics]
+
+<br>
 
 ## WIP
 
