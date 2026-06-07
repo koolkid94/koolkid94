@@ -1,12 +1,30 @@
-![title.png](title.png) </center>
+ ![title.png](title.png)  </center>
 
 > A total 'overhaul' of Tacz 1.1.7 - modular attachments, magazines, and animated firearm manipulations.
- <center>
+
 
 Rough Project Scope & Outline [here](https://docs.google.com/document/d/17dVBlS1kNZ8BBDibv30S84Fb3FFpDjXTLl2TkmrA0iU/edit?tab=t.0)
 
 Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/intellij-project)
 
+
+## Current Features
+
+- [Firearm Gas/Pressure System]
+- [Weapon Handling/Manipulations & Length]
+- [Underbarrels](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Underbarrels)
+- [Other Mod Integrations](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Mod%20Integrations)
+- [Variable Ballistics]
+
+
+
+## WIP
+
+- Jamming & Durability
+- PIP Scopes
+- Complete Animation Set
+
+---
 
 ![img_8.png](img_8.png)
 
@@ -30,26 +48,8 @@ Loudness
 Particulate Clutter (gas and other obscuring particle effects)
 
 Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are no longer stat tweaks of each other but each a unique item with its own intricacies and balancing, implemented through ammunition choices and attachment accessibility. The attachment mounting system loosely models a variety of real-world mounting solutions.
-</center>
 
 
-## Current Features
-
-- [Firearm Gas/Pressure System]
-- [Weapon Handling/Manipulations & Length]
-- [Underbarrels](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Underbarrels)
-- [Other Mod Integrations](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Mod%20Integrations)
-- [Variable Ballistics]
-
-<br>
-
-## WIP
-
-- Jamming & Durability
-- PIP Scopes
-- Complete Animation Set
-
----
 
 ## Planned List — 17/131 complete
 
