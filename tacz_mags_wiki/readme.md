@@ -37,8 +37,8 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 
 - [Firearm Gas/Pressure System]
 - [Weapon Handling/Manipulations & Length]
-- [Underbarrels]
-- [Other Mod Integrations]
+- [Underbarrels](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Underbarrels)
+- [Other Mod Integrations](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Mod%20Integrations)
 - [Variable Ballistics]
 
 <br>
