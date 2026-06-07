@@ -1,6 +1,6 @@
 # Pressure System
 
-Pressure is largely determined by attachments, specifically high backpressure silencers, barrel length, gasblocks, and the type of bullet fired. Guns can accept a [variety of bullets] which act as a multiplier to the base gun's pressure stat. As pressure increases, so does the [heat] per shot, bullet velocity, as well as the sound volume of the gun.
+Pressure is largely determined by attachments, specifically high backpressure silencers, barrel length, gasblocks, and the type of bullet fired. Guns can accept a [variety of bullets](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Ballistics) which act as a multiplier to the base gun's pressure stat. As pressure increases, so does the [heat](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Pressure%20System/Heat) per shot, bullet velocity, as well as the sound volume of the gun.
  
 
 ## Gas

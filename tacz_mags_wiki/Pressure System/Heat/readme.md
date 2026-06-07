@@ -1,6 +1,6 @@
 ## Heat
 
-Every gun has its own maximum heat capacity, heat generated per shot, and cooling rate. Attachments can change the max heat capacity and rate, while [bullets] change the heat generated per shot as a function of the system's [pressure].
+Every gun has its own maximum heat capacity, heat generated per shot, and cooling rate. Attachments can change the max heat capacity and rate, while [bullets](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Ballistics) change the heat generated per shot as a function of the system's [pressure](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Pressure%20System).
 When the heat reaches above 40% of the maximum heat capacity, the barrel will begin to glow, as well as any attachments attached to it. 
 
 ![heating.gif](resources/heating.gif)
@@ -13,4 +13,4 @@ Certain barrels, as defined in "swappable_barrels.json" are quick change barrels
 
 ## Muzzle Flash
 
-Muzzle flashes also become more common and larger as the gun heats up. Flashhiders, as configured by "flash_hiders.json" can scale down the size of any rendered flash.
+Muzzle flashes also become more common and larger as the gun heats up. Flashiders, as configured by "flash_hiders.json" can scale down the size of any rendered flash.
