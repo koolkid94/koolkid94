@@ -1,6 +1,6 @@
 ## Underbarrels
 
-Underbarrels can be equipped on guns.  The default keybind is X.
+Underbarrels can be equipped on guns. The default keybind is X.
 
 | Function     | Animation Name             |
 |--------------|----------------------------|
