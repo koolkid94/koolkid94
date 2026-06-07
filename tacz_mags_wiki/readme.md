@@ -3,9 +3,9 @@
 > A total 'overhaul' of Tacz 1.1.7 - modular attachments, magazines, and animated firearm manipulations.
 
 
-Rough Project Scope & Outline [here](https://docs.google.com/document/d/17dVBlS1kNZ8BBDibv30S84Fb3FFpDjXTLl2TkmrA0iU/edit?tab=t.0)
+Rough Project Scope & Outline [here](https://docs.google.com/document/d/17dVBlS1kNZ8BBDibv30S84Fb3FFpDjXTLl2TkmrA0iU/edit?tab=t.0).
 
-Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/intellij-project)
+Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/intellij-project)!
 
 
 ## Current Features

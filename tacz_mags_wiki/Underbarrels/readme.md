@@ -1,6 +1,15 @@
 ## Underbarrels
 
-Underbarrels can be equipped on guns. The default keybind is X.
+Underbarrels can be equipped on guns. The default keybind is X. Both single tube and magazine fed underbarrels can accept multiple different ammo types.
+
+Underbarrels can be mag fed. If mag fed, the player must manually prime between shots to cycle the action.
+<br>
+![underbarrelmag.gif](resources/underbarrelmag.gif)
+<br>
+Traditional tube underbarrels also work just fine. In the example gif [Vinlanx's Explosion Overhaul](https://vinlanx.github.io/explosion-overhaul-site/) is used.
+<br>
+![ubgl.gif](resources/ubgl.gif)
+
 
 | Function     | Animation Name             |
 |--------------|----------------------------|
@@ -26,13 +35,5 @@ The underbarrels are declared in "underbarrels.json"
 ![underbarrelsjsonex.png](resources/underbarrelsjsonex.png)
 <br>
 
-
-Underbarrels can be mag fed. If mag fed, the player must manually prime between shots to cycle the action.
-<br>
-![underbarrelmag.gif](resources/underbarrelmag.gif)
-<br>
-Traditional tube underbarrels also work just fine.
-<br>
-![ubgl.gif](resources/ubgl.gif)
 
 
