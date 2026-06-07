@@ -14,6 +14,7 @@ Tacz's guns are no longer stat tweaks of each other but each a unique item with 
 A Minecraft Mod aiming to make the world not feel so player-centric.
 
 - [Repository](https://github.com/koolkid94/Porcelain-Flowers)
+- [WIP Wiki](https://github.com/koolkid94/koolkid94/edit/main/porcelain_flowers_wiki/)
 
 ---
 <br>
