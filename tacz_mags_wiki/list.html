@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planned list</title>
+    <link href="https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..500&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+          background: #0d0f16;
+          font-family: 'Share Tech Mono', monospace;
+          padding: 1.5rem;
+        }
+        .section-label {
+          font-size: 10px;
+          letter-spacing: 0.2em;
+          text-transform: uppercase;
+          color: #5a9ab5;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          margin-bottom: 10px;
+        }
+        .section-label::after {
+          content: '';
+          flex: 1;
+          height: 0.5px;
+          background: rgba(100,140,150,0.25);
+        }
+        .list-box {
+          background: #191518;
+          border: 0.5px solid rgba(100,140,160,0.2);
+          border-radius: 6px;
+          padding: 16px 18px;
+        }
+        .list-count {
+          font-size: 11px;
+          color: #5a9ab5;
+          display: block;
+          margin-bottom: 14px;
+          letter-spacing: 0.08em;
+        }
+        .chips {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 5px;
+        }
+        .chip {
+          font-size: 10px;
+          letter-spacing: 0.05em;
+          text-transform: uppercase;
+          padding: 3px 8px;
+          border: 0.5px solid rgba(100,140,150,0.18);
+          border-radius: 2px;
+          color: #4a5c6a;
+        }
+        .chip.done {
+          border-color: rgba(80,160,80,0.35);
+          color: #5aaa5a;
+        }
+    </style>
+</head>
+<body>
+<p class="section-label">Planned list</p>
+<div class="list-box">
+    <span class="list-count">131 Firearms Planned</span>
+    <div class="chips">
+        <span class="chip">9A-91</span>
+        <span class="chip done">ADAR-215</span>
+        <span class="chip">AEK-965</span>
+        <span class="chip">AK-12</span>
+        <span class="chip">AK-54</span>
+        <span class="chip">AK100S</span>
+        <span class="chip done">AKMN</span>
+        <span class="chip done">AKMSN</span>
+        <span class="chip">AKS-54U</span>
+        <span class="chip">APB</span>
+        <span class="chip">AS VAL</span>
+        <span class="chip">ASH-12</span>
+        <span class="chip">AUG</span>
+        <span class="chip">AWP</span>
+        <span class="chip">AXMC</span>
+        <span class="chip">B93R</span>
+        <span class="chip">C11</span>
+        <span class="chip">CZ55</span>
+        <span class="chip">DEAGLE</span>
+        <span class="chip">DP-12</span>
+        <span class="chip">DVL-10</span>
+        <span class="chip">FN EVOLYS</span>
+        <span class="chip">FN55</span>
+        <span class="chip">FORT 12</span>
+        <span class="chip">G28</span>
+        <span class="chip">G3</span>
+        <span class="chip">G36</span>
+        <span class="chip">GL40</span>
+        <span class="chip done">Glock 15</span>
+        <span class="chip done">Glock 18</span>
+        <span class="chip">GLOCK 19</span>
+        <span class="chip">GP-41</span>
+        <span class="chip">GS-18</span>
+        <span class="chip">HK416</span>
+        <span class="chip">HK415</span>
+        <span class="chip">IZH-58</span>
+        <span class="chip">KEDR</span>
+        <span class="chip">KS-23</span>
+        <span class="chip">KSG</span>
+        <span class="chip">LR-300</span>
+        <span class="chip">M1014</span>
+        <span class="chip">M105</span>
+        <span class="chip">M110 SASS</span>
+        <span class="chip">M1216</span>
+        <span class="chip done">M16</span>
+        <span class="chip done">M1A</span>
+        <span class="chip">M203</span>
+        <span class="chip done">M249</span>
+        <span class="chip done">M26 MASS</span>
+        <span class="chip done">M320</span>
+        <span class="chip">M45A1</span>
+        <span class="chip done">M4A1</span>
+        <span class="chip">M60</span>
+        <span class="chip">M5 SPEAR</span>
+        <span class="chip">M500</span>
+        <span class="chip">M59</span>
+        <span class="chip done">M850</span>
+        <span class="chip">M95</span>
+        <span class="chip">M9A2</span>
+        <span class="chip">MAKAROV</span>
+        <span class="chip">MCX</span>
+        <span class="chip">MDR 308</span>
+        <span class="chip">MDR 556</span>
+        <span class="chip">MGL</span>
+        <span class="chip">MINI 14</span>
+        <span class="chip">MK-45</span>
+        <span class="chip">MK18</span>
+        <span class="chip">MK20 SCAR</span>
+        <span class="chip">MK46 LMG</span>
+        <span class="chip">MOSIN</span>
+        <span class="chip">MP-155</span>
+        <span class="chip">MP-153</span>
+        <span class="chip">MP-443</span>
+        <span class="chip done">MP5</span>
+        <span class="chip">MP5K</span>
+        <span class="chip">MP5SD</span>
+        <span class="chip">MP5</span>
+        <span class="chip">MP9</span>
+        <span class="chip">MPX</span>
+        <span class="chip">MRAD</span>
+        <span class="chip">NSWC MK13 CRANE</span>
+        <span class="chip">OTS-14</span>
+        <span class="chip">OTS-33</span>
+        <span class="chip">P226</span>
+        <span class="chip">P320</span>
+        <span class="chip">P90</span>
+        <span class="chip done">PKM</span>
+        <span class="chip">PL-15</span>
+        <span class="chip">PP-19</span>
+        <span class="chip">PP200</span>
+        <span class="chip">PPSH</span>
+        <span class="chip">QFIX</span>
+        <span class="chip">RD504</span>
+        <span class="chip">RFB</span>
+        <span class="chip">RPD</span>
+        <span class="chip">RPG-26</span>
+        <span class="chip">RPG-5</span>
+        <span class="chip">RPK-16</span>
+        <span class="chip">RPK16</span>
+        <span class="chip">RPL-20</span>
+        <span class="chip">SAIGA-12</span>
+        <span class="chip">SAKO ARG</span>
+        <span class="chip">SAKO TRG</span>
+        <span class="chip">SCAR-H</span>
+        <span class="chip">SCAR-L</span>
+        <span class="chip">SIX12</span>
+        <span class="chip">SKS</span>
+        <span class="chip done">SN38</span>
+        <span class="chip">SPAS-15</span>
+        <span class="chip">SR-1</span>
+        <span class="chip">SR-25</span>
+        <span class="chip">SR2M</span>
+        <span class="chip">SR3M</span>
+        <span class="chip">STRIKER 12</span>
+        <span class="chip">SV98</span>
+        <span class="chip">SVD</span>
+        <span class="chip">SVU</span>
+        <span class="chip">T5000</span>
+        <span class="chip">TOZ 106</span>
+        <span class="chip">TT33</span>
+        <span class="chip">UMP45</span>
+        <span class="chip">USP45</span>
+        <span class="chip done">UZI</span>
+        <span class="chip">VECTOR 45</span>
+        <span class="chip">VECTOR 9</span>
+        <span class="chip">VIPER 2011</span>
+        <span class="chip">VPO 101</span>
+        <span class="chip done">VPO 209</span>
+        <span class="chip">VPO 215</span>
+        <span class="chip">VSS</span>
+        <span class="chip">ZBROYAR Z-10</span>
+    </div>
+</div>
+</body>
+</html>
