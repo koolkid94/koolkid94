@@ -11,7 +11,7 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 ## Current Features
 
 - [Firearm Gas/Pressure System]
-- [Weapon Handling/Manipulations & Length] (https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Weapon%20Handling)
+- [Weapon Handling/Manipulations & Length](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Weapon%20Handling)
 - [Underbarrels](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Underbarrels)
 - [Other Mod Integrations](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Mod%20Integrations)
 - [Variable Ballistics]

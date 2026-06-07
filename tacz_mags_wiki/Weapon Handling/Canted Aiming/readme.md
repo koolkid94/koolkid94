@@ -20,3 +20,8 @@ Pressing keybind (L by default) will manually cycle the action of the gun. This 
 Guns can be held at a lower than ready stance. This is largely a cosmetic feature. The disarming appearance of the lowered gun is shown in 3rd person. [KosmX's Player Animator](https://github.com/KosmX/minecraftPlayerAnimator) is recommended. 
 
 ![ready.gif](resources/ready.gif)
+
+## Folding Stocks
+Some stocks can be collapsed to make the overall weapon shorter, as configured by "folding_stocks.json".
+
+![stock folding.gif](resources/stock%20folding.gif)
