@@ -5,5 +5,5 @@
 
 
 - [New Controls](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Weapon%20Handling/Canted%20Aiming)
-- [Bipods & Sway]
-- [Length & Weight]
+- [Bipods & Sway](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Weapon%20Handling/Bipods%20and%20Sway)
+- [Length & Weight](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Weapon%20Handling/Length%20and%20Weight)

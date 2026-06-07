@@ -1,6 +1,6 @@
 ## Barrel Blocking
 
-The length of the weapon is now simulated in the world. Longer guns are positioned farther from the center of the screen the closer to an obstructing surface the player gets. The length of distance to the wall is determined by the installed attachments, as well as the gun's base length. [Folded stocks]() can shorten a weapon at the cost of recoil gain. If possible, the player will compress the gun closer to the camera before deflecting the barrel out of center. 
+The length of the weapon is now simulated in the world. Longer guns are positioned farther from the center of the screen the closer to an obstructing surface the player gets. The length of distance to the wall is determined by the installed attachments, as well as the gun's base length. [Folded stocks](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Weapon%20Handling/Canted%20Aiming) can shorten a weapon at the cost of recoil gain. If possible, the player will compress the gun closer to the camera before deflecting the barrel out of center. 
 
 ![mp5 length.gif](resources/mp5%20length.gif)
 
