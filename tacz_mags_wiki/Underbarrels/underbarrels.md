@@ -29,7 +29,7 @@ The underbarrels are declared in "underbarrels.json"
 
 Underbarrels can be mag fed. If mag fed, the player must manually prime between shots to cycle the action.
 <br>
-![underbarrel mag.mp4](resources/underbarrel%20mag.mp4)
+![underbarrelmag.gif](resources/underbarrelmag.gif)![underbarrel mag.mp4](resources/underbarrel%20mag.mp4)
 <br>
 Traditional tube underbarrels also work just fine.
 <br>
