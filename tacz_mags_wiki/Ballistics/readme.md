@@ -1,6 +1,6 @@
 ## Ammo Types
 
-Various different ammo types, each with their own properties, can be loaded into a gun. Scopes will need to be zeroed based on load and barrel length.
+Various different ammo types, each with their own properties, can be loaded into a gun through various [magazines](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Ballistics/Magazines/readme.md). Scopes will need to be zeroed based on load and barrel length.
 
 ## Attributes
 ![img.png](resources/img.png)
