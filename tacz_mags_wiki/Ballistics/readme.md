@@ -5,7 +5,7 @@ Various different ammo types, each with their own properties, can be loaded into
 ## Attributes
 ![img.png](resources/img.png)
 
-Pressure is a special stat, as it influences [heat](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Pressure%20System/Heat), [pressure](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Pressure%20System), as well as increasing velocity and accuracy.
+Pressure is a special stat, as it influences [heat](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Ballistics/readme.md), [pressure](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Pressure%20System/readme.md), as well as increasing velocity and accuracy.
 
 ### Buckshot and Slugs
 If slugs are loaded, it will slightly increase the accuracy of  whatever it is loaded into, as well as only firing a single pellet. Slug rounds are defined as slugs if the ammo id ends with "sl".

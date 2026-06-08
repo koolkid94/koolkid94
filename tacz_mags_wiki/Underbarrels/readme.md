@@ -2,7 +2,7 @@
 
 Underbarrels can be equipped on guns. The default keybind is X. Both single tube and magazine fed underbarrels can accept multiple different ammo types.
 
-Underbarrels can be mag fed. If mag fed, the player must manually [prime](https://github.com/koolkid94/koolkid94/tree/main/tacz_mags_wiki/Weapon%20Handling/Canted%20Aiming) between shots to cycle the action.
+Underbarrels can be mag fed. If mag fed, the player must manually [prime](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Weapon%20Handling/Canted%20Aiming/readme.md) between shots to cycle the action.
 <br>
 ![underbarrelmag.gif](resources/underbarrelmag.gif)
 <br>
