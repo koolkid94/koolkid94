@@ -21,3 +21,12 @@ Magazines can be installed and removed from a gun.
 If the magazine ID ends with "_w", it will render the bullets through a witness port.
 
 ![img.png](resources/img.png)
+
+### Json Formatting
+
+```json
+  "tacz:magazine_ar_stanag_30": {
+    "strings": ["tacz:556x45", "tacz:mk262", "tacz:300_blackout", "tacz:m855", "tacz:m856", "tacz:m855a1"],
+    "value": 30
+  }
+```

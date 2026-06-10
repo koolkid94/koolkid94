@@ -15,7 +15,7 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 - [Underbarrels](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Underbarrels/readme.md)
 - [Other Mod Integrations](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Mod%20Integrations/readme.md)
 - [Variable Ballistics](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Ballistics/readme.md)
-- [Attachment Reworks]
+- [Attachment Reworks](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Attachment/readme.md)
 
 
 
