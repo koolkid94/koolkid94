@@ -62,7 +62,7 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 
 
 
-## Planned List — 17/131 complete
+## Planned List 
 
 | ✅ Done (WIP) | 🔲 Planned      |
 |--------------|-----------------|
@@ -133,6 +133,7 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 |              | MP9             |
 |              | MPX             |
 |              | MRAD            |
+|              | Nagant 1895     |
 |              | NSWC MK13 CRANE |
 |              | OTS-14          |
 |              | OTS-33          |
@@ -150,7 +151,6 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 |              | RPG-26          |
 |              | RPG-7           |
 |              | RPK-16          |
-|              | RPK16           |
 |              | RPL-20          |
 |              | SAIGA-12        |
 |              | SAKO ARG        |
@@ -180,3 +180,4 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 |              | VPO 215         |
 |              | VSS             |
 |              | ZBROYAR Z-10    |
+|              | AK 308          |

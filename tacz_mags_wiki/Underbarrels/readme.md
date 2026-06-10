@@ -10,6 +10,12 @@ Traditional tube underbarrels also work just fine. In the example gif [Vinlanx's
 <br>
 ![ubgl.gif](resources/ubgl.gif)
 
+## Arming Distance
+
+![arming distance.gif](resources/arming%20distance.gif)
+
+Explosives can have a minimum arming distance.
+
 
 | Function     | Animation Name             |
 |--------------|----------------------------|
