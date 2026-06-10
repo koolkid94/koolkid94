@@ -22,8 +22,10 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 ## WIP
 
 - Jamming & Durability
-- PIP Scopes
+- PIP Scopes & Zeroing
 - Complete Animation Set
+- Blindfiring
+- Batteries for Optics
 
 ---
 
