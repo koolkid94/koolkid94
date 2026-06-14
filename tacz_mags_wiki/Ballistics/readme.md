@@ -67,5 +67,3 @@ Variance is how much the pressure can vary by. This can cause bullets to fly a b
 If slugs are loaded, it will slightly increase the accuracy of  whatever it is loaded into, as well as only firing a single pellet. Slug rounds are defined as slugs if the ammo id ends with "sl".
 ![ammotypes.gif](resources/ammotypes.gif)
 
-
-![img_1.png](resources/img_1.png)
