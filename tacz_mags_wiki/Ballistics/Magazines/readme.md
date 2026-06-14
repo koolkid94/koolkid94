@@ -1,6 +1,6 @@
 ## Magazines
 
-Magazines can accept [multiple different ammo types](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Ballistics/readme.md), as configured in "magazines.json". Sometimes, not all the loaded bullets in a magazine will be of the proper type for the current gun, forcing the player to [prime](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Weapon%20Handling/Length%20and%20Weight/readme.md) in order to continue shooting. 
+Magazines can accept [multiple different ammo types](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Ballistics/readme.md), as configured in "magazines.json". Sometimes, not all the loaded bullets in a magazine will be of the proper type for the current gun, forcing the player to [prime](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Weapon%20Handling/Canted%20Aiming/readme.md) in order to continue shooting. 
 
 ![wrong type.gif](resources/wrong%20type.gif)
 
