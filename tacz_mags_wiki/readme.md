@@ -22,10 +22,11 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 ## WIP
 
 - Jamming & Durability
-- PIP Scopes & Zeroing
+- Optics Rework (PIP Scopes, Zeroing, FFP Scopes, SFP Scopes, NV/Thermal Headgear Compatability)
 - Complete Animation Set
 - Blindfiring
 - Batteries for Optics
+- QD Attachments
 
 ---
 
