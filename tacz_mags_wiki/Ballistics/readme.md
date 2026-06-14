@@ -4,22 +4,25 @@ Various different ammo types, each with their own properties, can be loaded into
 
 ## Attributes
 ```json
-  "tacz:m855": {
-"armor_pen": 1.1,
-"damage": 0.55,
-"pressure": 1.018,
-"air_friction": 0.041572,
-"gravity": 0.0439,
-"accuracy": 0.83,
-"variance": 0.03,
-"incendiary": false,
-"explosive": false,
-"tracer":  false
-},
+  {
+  "tacz:mk262": {
+    "armor_pen": 1.2,
+    "damage": 0.8,
+    "pressure": 1.1,
+    "air_friction": 0.03186,
+    "gravity": 0.018,
+    "accuracy": 0.13,
+    "variance": 0.01,
+    "incendiary": false,
+    "explosive": false,
+    "tracer": true
+  },
+  ...
+}
 ```
 # Velocity
 
-The damage of a bullet is largely a function of its velocity. Velocity may be approximated with the formula:
+The damage of a bullet is largely a function of its velocity. Velocity as a function of distance may be approximated with the formula:
 
 $$
 V(d) = \sqrt{\left(v_{0}(p)-20fd\right)^{2}+\left(\frac{400gd}{v_{0}(p)}\right)^{2}}
