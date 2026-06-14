@@ -17,4 +17,4 @@ The cycle check is calculated as:
 
 $$G = \prod_{i=1}^{n} \text{attachmentPressure}_i(\text{ammoPressure}) - \text{rand}$$
 
-where **rand** is a random value between 0.01 and 0.07. If $G > MinPressure$, the action cycles successfully. Minimum Pressure is 0.75 by default, but can be changed in the gun's data file.
+where **rand** is a random value as specified from the ammo's variance stat. If $G > MinPressure$, the action cycles successfully. Minimum Pressure is 0.75 by default, but can be changed in the gun's data file.
