@@ -17,8 +17,9 @@ Various different ammo types, each with their own properties, can be loaded into
 "tracer":  false
 },
 ```
+# Velocity
 
-The damage of a bullet is largely a function of its velocity. It may be approximated with the formula:
+The damage of a bullet is largely a function of its velocity. Velocity may be approximated with the formula:
 
 $$
 V(d) = \sqrt{\left(v_{0}(p)-20fd\right)^{2}+\left(\frac{400gd}{v_{0}(p)}\right)^{2}}
@@ -26,18 +27,38 @@ $$
 
 Where:
 
-- *V(d)* is the bullet's velocity at distance *d*.
+- *V(d)* is the bullet's velocity at distance *d* in meters per second.
 - *v₀* is the gun's base velocity (including attachments).
 - *p* is the pressure.
 - *f* is the friction coefficient.
 - *d* is the distance traveled by the bullet.
-- *g* is the gravitational acceleration.
+- *g* is the gravitational coefficient.
 
-Damage can be approximated with the formula
+# Damage
 
-$$D(d) = 0.0084\,V_0\,e^{-\left(\frac{22A_f}{V_0}\right)d} + 0.28\,(D_{\mathrm{ammo}} + 0.01) $$
+From this, damage as a function of distance can be approximated with the formula:
+
+$$D(d)=\left(\left(\frac{\sqrt{\left(v_0(p)-20fd\right)^2+\left(\frac{400gd}{v_0(p)}\right)^2}}{5\cdot20}\cdot0.75\right)+\left(0.25\left(D_a+0.01\right)\right)\right)\cdot1.12$$
+
+Where:
+
+- *D(d)* is the bullet's damage at distance *d*.
+- *v₀* is the gun's base velocity (including attachments).
+- *p* is the pressure.
+- *f* is the friction coefficient.
+- *d* is the distance traveled by the bullet.
+- *g* is the gravitational coefficient.
+- *$D_a$* is the ammo's damage stat.
+
+There is a secondary $ 1/20 $ term in the velocity weighted section to convert from meters per tick back to meters per second. 
+
+![img.png](../Pressure%20System/resources/img.png)
+
+The variables of pressure, gravity, and friction control both trajectory and damage. Friction is a reduction on the î, and gravity is a scalar magnification of ĵ. To make a bullet fly truer, without speeding it up, decrease both gravity and friction. 
 
 Pressure is a special stat, as it influences [heat](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Pressure%20System/Heat/readme.md), [pressure](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Pressure%20System/readme.md).
+<br>
+Variance is how much the pressure can vary by. This can cause bullets to fly a bit slower or faster.
 
 ### Buckshot and Slugs
 If slugs are loaded, it will slightly increase the accuracy of  whatever it is loaded into, as well as only firing a single pellet. Slug rounds are defined as slugs if the ammo id ends with "sl".
