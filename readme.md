@@ -9,7 +9,7 @@ Tacz's guns are no longer stat tweaks of each other but each a unique item with 
 
 ---
 
-## Porcelain Flowers – Early Development 1.21.1 Atmospheric Ecosystem Simulation Mod (Fabric)
+## Porcelain Flowers – Early Development 1.2X.X(?) Ecosystem Simulation Mod (Fabric...?)
 
 A Minecraft Mod aiming to make the world not feel so player-centric.
 
