@@ -36,13 +36,13 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 ![tarker.gif](tarker.gif)
 ![m870.gif](m870.gif)
 
-> ⚠️ **Currently a private build** — assets sourced from pre-existing works. No public release planned.
+> ⚠️ **Currently a private build** - assets sourced from pre-existing works. No public release planned. ⚠️
  
 ---
 
 # Weapon System
 
-Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are no longer stat tweaks of each other but each a unique item with its own intricacies and balancing, implemented through ammunition choices and attachment accessibility. The attachment mounting system loosely models a variety of real-world mounting solutions.
+Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are no longer stat tweaks of each other but each a unique item with its own intricacies and balancing, implemented through ammunition choices and attachment accessibility. The attachment mounting system loosely models a variety of real-world mounting solutions. Great inspiration has been drawn from some of my favorite games, like EFT, Stalker, and the ARMA series.
 
 ## Stats
 
