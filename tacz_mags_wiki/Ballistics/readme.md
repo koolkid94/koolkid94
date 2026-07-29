@@ -76,11 +76,11 @@ Using the block's geometry (bounding box) and material (referenced with a lookup
     "min_pen": 1.15
   },
 ```
-![ammo pen.gif](resources/ammo%20pen.gif)
+![ammo pen.gif](resources/ammo%20pen.gif)<br>
 Different cartridges can have varying performances in defeating barriers.
 
-![multi block pen.gif](resources/multi%20block%20pen.gif)
+![multi block pen.gif](resources/multi%20block%20pen.gif)<br>
 As a bullet passes through multiple blocks it will slow down and lose penetration power. 
 
-![thickness pen.gif](resources/thickness%20pen.gif)
+![thickness pen.gif](resources/thickness%20pen.gif)<br>
 Penetration is based on the simulated trajectory through the material. Deflection in the material is not simulated, assume a perfectly straight trajectory. 
