@@ -67,3 +67,20 @@ Variance is how much the pressure can vary by. This can cause bullets to fly a b
 If slugs are loaded, it will slightly increase the accuracy of  whatever it is loaded into, as well as only firing a single pellet. Slug rounds are defined as slugs if the ammo id ends with "sl".
 ![ammotypes.gif](resources/ammotypes.gif)
 
+### Thickness Based Penetration
+Using the block's geometry (bounding box) and material (referenced with a lookup table), bullets can penetrate through various objects, resulting in a subsequent velocity/ penetration loss.
+```json
+  "#tacz:pen_wood": {
+    "pen_loss": 0.3,
+    "friction_gain": 0.145,
+    "min_pen": 1.15
+  },
+```
+![ammo pen.gif](resources/ammo%20pen.gif)
+Different cartridges can have varying performances in defeating barriers.
+
+![multi block pen.gif](resources/multi%20block%20pen.gif)
+As a bullet passes through multiple blocks it will slow down and lose penetration power. 
+
+![thickness pen.gif](resources/thickness%20pen.gif)
+Penetration is based on the simulated trajectory through the material. Deflection in the material is not simulated, assume a perfectly straight trajectory. 

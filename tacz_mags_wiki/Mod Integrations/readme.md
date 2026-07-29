@@ -18,3 +18,9 @@ Tentative compatability with [Handheld Moon](https://github.com/Tower-of-Sighs/H
 ## TaCZ Presence
 
 A custom version of [TaCZ Precense](https://github.com/AlfredoAlessandro/Tacz-Presence) is used for visual and particle effects. 
+
+## Arcana / TacZ Expands
+
+Tentative compatability with [Arcana](https://hamsterbaron.gitbook.io/hamsterbaron). Requires a totally edited version of Arcana that removes all of its own ballistics / bullet reworks.
+
+![arcana.gif](resources/arcana.gif)

@@ -85,7 +85,7 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 | ✅ UZI        | DEAGLE          |
 | ✅ VPO 209    | DP-12           |
 | ✅ M700       | DVL-10          |
-|              | FN EVOLYS       |
+| ✅MCX         | FN EVOLYS       |
 |              | FN57            |
 |              | FORT 12         |
 |              | G28             |
@@ -114,7 +114,6 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 |              | M95             |
 |              | M9A2            |
 |              | MAKAROV         |
-|              | MCX             |
 |              | MDR 308         |
 |              | MDR 556         |
 |              | MGL             |

@@ -25,3 +25,8 @@ Guns can be held at a lower than ready stance. This is largely a cosmetic featur
 Some stocks can be collapsed to make the overall weapon [shorter](https://github.com/koolkid94/koolkid94/blob/main/tacz_mags_wiki/Weapon%20Handling/Length%20and%20Weight/readme.md), as configured by "folding_stocks.json".
 
 ![stock folding.gif](resources/stock%20folding.gif)
+
+## Mag Checking
+Pressing keybind (M by default) will reveal the contents of the current magazine.
+
+![mag check.gif](resources/mag%20check.gif)
