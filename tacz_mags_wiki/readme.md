@@ -7,6 +7,7 @@ Rough Project Scope & Outline [here](https://docs.google.com/document/d/17dVBlS1
 
 Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/intellij-project)!
 
+Release window targeted for late July/ Early August 2552
 
 ## Current Features
 
