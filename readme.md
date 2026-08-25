@@ -24,7 +24,7 @@ A Minecraft Mod aiming to make the world not feel so player-centric.
 <br>
 
 ![img.png](img.png)
-S-Beyond Words <br>
+S-Tuff asl <br>
 A-Mythic<br>
 B-An Integral Staple of Great Fun<br>
 C-Solid Enjoyment<br>
