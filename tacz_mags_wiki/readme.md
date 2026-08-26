@@ -30,7 +30,7 @@ Check out the New Branch  [here](https://github.com/koolkid94/tacz_mags/tree/int
 
 ---
 
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 ![idea.gif](idea.gif)
 ![tarker.gif](tarker.gif)
@@ -86,7 +86,7 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 | ✅ VPO 209    | DP-12           |
 | ✅ M700       | DVL-10          |
 | ✅MCX         | FN EVOLYS       |
-|              | FN57            |
+| ✅SVD         | FN57            |
 |              | FORT 12         |
 |              | G28             |
 |              | G3              |
@@ -165,7 +165,6 @@ Overall design direction aims for a more open-ended, "sandboxy" feel. Guns are n
 |              | SR3M            |
 |              | STRIKER 12      |
 |              | SV98            |
-|              | SVD             |
 |              | SVU             |
 |              | T5000           |
 |              | TOZ 106         |
